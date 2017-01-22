@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLoc</string>
+    <string name="acc">Точность : </string>
+    <string name="lat">Широта : </string>
+    <string name="lon">Долгота : </string>
+    <string name="alt">Высота : </string>
+    <string name="spd">Скорость : </string>
+    <string name="addr">Адрес : \n </string>
+    <string name="msg">Сначала включите LOCATION ACCESS</string>
+</resources>
